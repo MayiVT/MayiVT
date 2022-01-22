@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [AraAraStudios](https://araarastudios.ga/)
 
-- 👨‍💻 All of my projects are available at [https://mayivt.ml](https://mayivt.ml)
+- 👨‍💻 All of my projects are available at [https://araarastudios.ga](https://araarastudios.ga)
 
 - 📝 I regularly write articles on [https://twitter.com/MayiN3ko](https://twitter.com/MayiN3ko)
 
