@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **mayivt.business@gmail.com**
 
-- 📄 Know about my experiences [https://mayivt.ml/bio](https://mayivt.ml/bio)
+- 📄 Know about my experiences [https://araarastudios.ga](https://araarastudios.ga)
 
 - ⚡ Fun fact **One day a string break's when i was on an harp concert.**
 
