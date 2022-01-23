@@ -50,3 +50,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayivt&show_icons=true&locale=en" alt="mayivt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayivt&" alt="mayivt" /></p>
+
+
+<h3>Discord</h3>
+<img src="https://discord.c99.nl/widget/theme-3/727103299731324929.png">
