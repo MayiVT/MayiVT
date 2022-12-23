@@ -13,17 +13,17 @@
 
 - 🔭 And I’m currently working on [AraAraStudios too](https://araarastudios.ga/)
 
-- 🤝 I’m looking for help with [AraAraStudios](https://araarastudios.ga/)
+- 🤝 I’m looking for help with [AraAraStudios](https://araarastudios.net/)
 
-- 👨‍💻 All of my projects are available at [https://araarastudios.ga](https://araarastudios.ga)
+- 👨‍💻 All of my projects are available at [https://araarastudios.net](https://araarastudios.net)
 
 - 📝 I regularly write articles on [https://twitter.com/MayiN3ko](https://twitter.com/MayiN3ko)
 
 - 💬 Ask me about **something.**
 
-- 📫 How to reach me **mayivt.business@gmail.com**
+- 📫 How to reach me **mayi@araarastudios.net**
 
-- 📄 Know about my experiences [https://araarastudios.ga](https://araarastudios.ga)
+- 📄 Know about my experiences [https://araarastudios.net](https://araarastudios.net)
 
 - ⚡ Fun fact **One day a string break's when i was on an harp concert.**
 
