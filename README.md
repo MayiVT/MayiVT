@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Nekowater](https://nekowater.ga/)
 
-- 🌱 I’m currently learning **Discord.js v13 (I need to kill em...)**
+- 🌱 I’m currently learning **C++ & Rust**
 
 - 🔭 And I’m currently working on [AraAraStudios too](https://araarastudios.ga/)
 
