@@ -107,7 +107,7 @@
           <br/>
           <h2 align="center"> latest contribution </h2>
           <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-            <img alt="Mayi's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=MayiVT&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
+            [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MayiVT&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
           </a>
           <br/>
         </samp>
