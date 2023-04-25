@@ -107,7 +107,7 @@
           <br/>
           <h2 align="center"> latest contribution </h2>
           <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-            [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MayiVT&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+            <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MayiVT&theme=github-compact" />
           </a>
           <br/>
         </samp>
