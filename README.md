@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://www.araarastudios.net/">
-    <img src="https://github.com/MayiVT/MayiVT/blob/output/github-contribution-grid-snake.gif" alt="snake "/>
+    <img src="https://github.com/MayiVT/MayiVT/blob/output/github-contribution-grid-snake.svg" alt="snake "/>
   </a>
 </div>
 
