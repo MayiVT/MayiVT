@@ -106,7 +106,7 @@
         <samp>
           <br/>
           <h2 align="center"> latest contribution </h2>
-          <a href="https://github.com/ashutosh00710/github-readme-activity-graph>
+          <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
             <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayiVT&theme=github-compact" />
           </a>" />
           </a>
