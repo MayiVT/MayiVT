@@ -1,118 +1,84 @@
 <div align="center">
-  <h1 align="center">Hi 👋, I'm iMayiVT</h1>
-  <h4 align="center">an appasionate developer that also loves music, see my <a href="https://araarastudios.net" target="_blank">resume [working on]</a> for more</h4>
-</div>
+<img src="https://i.pinimg.com/736x/54/9c/ff/549cff7bb2129f5fb1ce85b898d148dc.jpg" align="center" style="width: 100%" />
+</div>  
+
+  
+
+### <div align="center">I'm Mayi, a full-time full-stack freelance developer working on projects for myself and other people <3</div>  
+  
+
+- 🔭 I’m currently working on [AraAraStudios](https://araarastudios.net)  
+  
+
+- 🌱 I’m currently learning new things every day  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- ⚡ Fun fact: Cats groom other cats, and sometimes people, in a ritual called allogrooming.  
+  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/mayivt" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/MayiN3ko" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/MayiN3ko" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user//c/mayivt" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MayiVT&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayiVT&hide_border=true&layout=compact" align="center" /></div>
+
+<br/>  
 
 <div align="center">
-  <a href="https://www.araarastudios.net/">
-    <img src="https://github.com/MayiVT/MayiVT/blob/output/github-contribution-grid-snake.svg" alt="snake "/>
-  </a>
-</div>
+<img src="https://komarev.com/ghpvc/?username=MayiVT&&style=flat-square" align="center" />
+</div>  
+  
 
------
-<details>
-  <summary>☎️ Contact me</summary>
-  <div>
-    <samp>
-      <h2 align="center"> You can reach me by:</h2>
-      <p align="center">
-      <br/>
-      <a href="https://twitch.tv/mayivt" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitch-4267B2.svg?style=for-the-badge&logo=twitch&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="mailto:mayi@araarastudios.net" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://instagram.com/MayiN3ko" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://youtube.com/c/mayivt" target="blank"><img align="center"
-         src="https://img.shields.io/badge/youtube-4B7F1.svg?style=for-the-badge&logo=youtube&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://twitter.com/MayiN3ko" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <br>
-    </p>
-    </samp>
-  </div>
-</details>
+<br/>  
 
-<details>
-  <summary>🧮 About</summary>
-  <div>
-    <samp>
-      <h2 align="center"> About this Account</h2>
-      <p align="center">
-        <a href="github.com/MayiVT" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=MayiVT&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count" /></a>
-        <a href="https://araarastudios.net"><img align="center" src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https://araarastudios.net" height="25" alt="website" /></a>
-      </p>
-      <p align="center">
-        <a href="https://www.codefactor.io/repository/github/mayivt/mayivt/overview/main"><img align="center"
-          src="https://www.codefactor.io/repository/github/mayivt/mayivt/badge/main" height="25"
-          alt="CodeFactor" /></a>
-        <a href="github.com/MayiVT" target="blank"><img align="center" 
-          src="https://github.com/MayiVT/MayiVT/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
-          alt="page built"/></a>
-      </p>
-      <p align="center">
-        <a href="github.com/MayiVT" target="blank"><img align="center" 
-           src="https://img.shields.io/github/license/MayiVT/MayiVT?color=purple&style=for-the-badge" height="25"
-           alt="lisense" /></a>
-        <a href="github.com/MayiVT"><img align="center"
-           src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
-           alt="work on my machine" /></a>
-      </p>
-    </samp>
-  </div>
-</details>
-
-<details>
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-    <samp>
-      <h2 align="center"> Github Stats </h2>
-      <br/>
-      <details open>
-        <summary><h3>Languages</h3></summary>
-        <p align="center">
-          <a href="https://github.com/MayiVT">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayiVT&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"ç
-              alt="MayiVT :: overall Top Langs" />
-          </a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/MayiVT/">
-            <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MayiVT&theme=gruvbox&layout=compact&hide_border=true"
-            alt="MayiVT :: Top Langs by repo" />
-            <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MayiVT&theme=gruvbox&layout=compact&hide_border=true"
-            alt="MayiVT :: Top Langs by commit" />
-          </a>
-        </p>
-      </details>
-      <details open>
-        <summary><h3>Statistics</h3></summary>
-        <p align="center">
-          <a href="https://github.com/MayiVT">
-            <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MayiVT&show_icons=true&theme=gruvbox&hide_border=true" />
-            <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MayiVT&theme=gruvbox&hide_border=true" />
-          </a>
-        </p>
-      </details>
-      <details>
-        <summary>📈 Latest Activity Graph</summary>
-        <samp>
-          <br/>
-          <h2 align="center"> latest contribution </h2>
-          <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayiVT&theme=github-compact" />
-          </a>" />
-          </a>
-          <br/>
-        </samp>
-      </details>
-    </samp>
-  </div>
-</details>
+<div align="center">
+            <a href="https://paypal.me/mayi" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="center"
+                />
+            </a>
+            <a href="https://www.buymeacoffee.com/." target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a>
+                <a href="https://liberapay.com/." target="_blank" style="display: inline-block;">
+                    <img
+                        src="https://img.shields.io/badge/Donate-Liberapay-f6c915.svg?style=flat-square&logo=liberapay" 
+                        align="center"
+                    />
+                </a>
+            <a href="https://ko-fi.com/." target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
+                    align="center"
+                />
+            </a></div>
+<br />
