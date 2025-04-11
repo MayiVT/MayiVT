@@ -43,10 +43,7 @@
 
 
 ## Github Stats  
-<div align="center">
-  <img src="https://stats.araarastudios.net/?username=MayiVT&theme=catppuccin_mocha&hide_border=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" align="center" />
-</div>  
-
+[![Github Stats](https://stats.araarastudios.net/?username=MayiVT&theme=catppuccin_mocha&hide_border=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github)](https://stats.araarastudios.net/?username=MayiVT&theme=catppuccin_mocha&hide_border=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github)
 <br/>  
 
 <div align="center">
