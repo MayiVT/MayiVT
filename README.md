@@ -43,9 +43,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MayiVT&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayiVT&hide_border=true&layout=compact" align="center" /></div>
+<div align="center">
+  <img src="https://stats.araarastudios.net/?username=MayiVT&theme=catppuccin_mocha&hide_border=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" align="center" />
+</div>  
 
 <br/>  
 
